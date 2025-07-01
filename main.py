@@ -39,7 +39,7 @@ bot = Client(
 # File paths
 SUBSCRIPTION_FILE = "subscription_data.txt"
 CHANNELS_FILE = "channels_data.json"
-ADMIN_ID = 5957208798
+ADMIN_ID = 6414266397
 
 # Image URLs for the random image feature
 image_urls = [
